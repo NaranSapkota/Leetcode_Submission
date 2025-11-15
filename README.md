@@ -1,4 +1,4 @@
-A collection of my LeetCode practice problems solved in Python.
+A collection of  LeetCode practice problems solved in Python.
 
 LeetCode is a popular platform to practice coding problems, improve problem-solving skills, and prepare for tech interviews. This repo covers problems of all difficulty levels and topics like arrays, strings, linked lists, trees, graphs, dynamic programming, and more.
 
